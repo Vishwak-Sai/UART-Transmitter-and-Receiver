@@ -156,7 +156,8 @@ UART is commonly used in:
 - Run regression tests across multiple configurations.
 
 ## 12. Author
- Vishwak Sai
+ **Vishwak Sai**
+ **Link: https://edaplayground.com/x/JV5G **
 **Project:** UART Transmitter and Receiver Verification Using SystemVerilog and UVM
 
 **Domain:** VLSI Design and Functional Verification
